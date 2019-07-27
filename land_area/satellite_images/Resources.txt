@@ -1,0 +1,5 @@
+Satellite Images: https://landsatlook.usgs.gov/viewer.html
+ Landsat 8 OLI (2013-present)
+ Landsat 7 ETM+ (1999-present)
+
+Forest Cover Stats: https://www.globalforestwatch.org/map/5/57.64/-103.14/ALL/landsat1999/loss/607,556,580,592?tab=basemaps-tab&begin=2001-01-01&end=2016-01-01&threshold=30&dont_analyze=true
